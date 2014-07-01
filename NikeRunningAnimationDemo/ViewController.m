@@ -32,5 +32,8 @@
 -(void)goToSelectedViewController:(NSInteger)selectedIndex
 {
     NSLog(@"goToSelectedViewController was selected! selectIndex == %li",selectedIndex);
+    
+    
+    //just for test
 }
 @end
